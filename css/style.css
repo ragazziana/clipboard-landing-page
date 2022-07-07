@@ -437,6 +437,7 @@ footer{
     .track__computer-image{
         width: 75.2rem;
         margin-left: -3.2rem;
+        margin-bottom: 0;
     }
     
     .track__features{
@@ -467,7 +468,7 @@ footer{
 
     .clipboard__title{
         font-weight: 600;
-        font-size: 3.6ren;
+        font-size: 3.6rem;
         line-height: 4.5rem;
         text-align: center;
         letter-spacing: -0.586957px;
