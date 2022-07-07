@@ -431,8 +431,7 @@ footer{
     .track__image{
         display: flex;
         flex-direction: row;
-        align-items: center;
-        justify-content: center;
+        align-items: flex-start;
     }
 
     .track__computer-image{
@@ -441,13 +440,15 @@ footer{
     }
     
     .track__features{
-
-        margin: 0 26rem 0 11rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin: 6rem 23rem 0 11rem;
     }
 
     .track__text h3{
         text-align: left;
-        margin: 0;
+        margin: 0 0 .8rem 0;
         font-weight: 600;
         font-size: 2.4rem;
         line-height: 3rem;
