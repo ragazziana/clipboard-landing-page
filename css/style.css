@@ -370,6 +370,11 @@ footer{
         width: 100%;
     }
 
+    .hero__image-logo{
+        margin-top: 12.8rem;
+        margin-bottom: 5.6rem;
+    }
+
     .hero__title{
         font-size: 46px;
         line-height: 5.8rem;
