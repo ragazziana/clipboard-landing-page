@@ -631,6 +631,7 @@ footer{
         display: flex;
         flex-direction: row;
         justify-content: space-evenly;
+        margin: 3.9rem 0 3.9rem 0;
     }
 
     .footer__logo-small{
@@ -646,6 +647,11 @@ footer{
 
     .footer__links a{
        text-align: left;
+       font-weight: 400;
+       font-size: 1.8rem;
+       line-height: 3rem;
+       letter-spacing: 0.135px;
+       margin-bottom: 0;
     }
 
     .footer__social-media-facebook{
