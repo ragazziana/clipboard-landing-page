@@ -485,7 +485,7 @@ footer{
     }
 
     .clipboard__image-device{
-        width: 81.2rem;
+        width: 91.2rem;
         margin: 0 3.2rem 13rem 3.2rem;
     }
 
@@ -512,10 +512,6 @@ footer{
         letter-spacing: 0.135px;
         margin: 0 0 7.2rem 0;
     }
-
-    /* .workflow__wrapper-images{
-        margin: 0 16.5rem;
-    } */
 
     .icon-blacklist {
         margin: 0 0 4rem 0 ;
