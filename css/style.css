@@ -501,6 +501,7 @@ footer{
         line-height: 4.5rem;
         text-align: center;
         letter-spacing: -0.586957px;
+        margin: 0 0 1.9rem 0;
     }
 
     .workflow__description{
@@ -509,50 +510,54 @@ footer{
         line-height: 3rem;
         text-align: center;
         letter-spacing: 0.135px;
+        margin: 0 0 7.2rem 0;
+    }
+
+    .workflow__wrapper-images{
+        margin: 0 16.5rem;
     }
 
     .icon-blacklist {
-        margin: 0 ;
+        margin: 0 0 4rem 0 ;
     }
     .icon-text{
-        margin: 0 ;
+        margin: 0 0 4.4rem 0;
     
     }
     .icon-preview{
-        margin: 0 ;
+        margin: 0 0 4.407rem 0 ;
     }
     
     .workflow__blacklists{
-        margin: 0 ;
+        margin: 0 0 1.6rem 0;
     }
     
     .workflow__snippets{
-        margin: 0 ;
+        margin: 0 0 1.6rem 0;
     
     }
     
     .workflow__preview{
-        margin: 0 ;
+        margin: 0 0 1.6rem 0;
     }
     
     .workflow__blacklists-description{
-        margin: 0;
+        margin: 0 0 15rem 0;
     }
     
     .workflow__snippets-description{
-        margin: 0 ;
+        margin: 0 0 15rem 0;
     }
     
     .workflow__preview-description{
-        margin: 0;
+        margin: 0 0 15rem 0;
     }
 
     .logos{
         display: flex;
         flex-direction: row;
         justify-content: center;
-        margin-top: 15rem;
-        margin-bottom: 15rem;
+        margin: 0 0 15rem 0;
     }
 
     .logos__image-google{
