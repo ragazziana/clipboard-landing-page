@@ -405,7 +405,7 @@ footer{
     
     .link-mac{
         min-width: 22.7rem;
-        padding: 1.3rem 3.6rem 1.3rem 3.6rem;
+        padding: 1.3rem 3.5rem 1.3rem 3.2rem;
         margin: 0 0 15rem 0;
     }
 
@@ -489,6 +489,64 @@ footer{
         margin: 0 3.2rem 13rem 3.2rem;
     }
 
+    .workflow__wrapper-images{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+    }
+
+    .workflow__title{
+        font-weight: 600;
+        font-size: 3.6rem;
+        line-height: 4.5rem;
+        text-align: center;
+        letter-spacing: -0.586957px;
+    }
+
+    .workflow__description{
+        font-weight: 400;
+        font-size: 1.8rem;
+        line-height: 3rem;
+        text-align: center;
+        letter-spacing: 0.135px;
+    }
+
+    .icon-blacklist {
+        margin: 0 ;
+    }
+    .icon-text{
+        margin: 0 ;
+    
+    }
+    .icon-preview{
+        margin: 0 ;
+    }
+    
+    .workflow__blacklists{
+        margin: 0 ;
+    }
+    
+    .workflow__snippets{
+        margin: 0 ;
+    
+    }
+    
+    .workflow__preview{
+        margin: 0 ;
+    }
+    
+    .workflow__blacklists-description{
+        margin: 0;
+    }
+    
+    .workflow__snippets-description{
+        margin: 0 ;
+    }
+    
+    .workflow__preview-description{
+        margin: 0;
+    }
+
     .logos{
         display: flex;
         flex-direction: row;
@@ -560,5 +618,7 @@ footer{
     .footer__social-media-facebook{
         margin-left: 16.2rem;
     }
+
+
     
 }
