@@ -199,7 +199,7 @@ main{
 
 .clipboard__image-device{
     width: 100%;
-    max-width: 768px;
+    max-width: 81.2rem;
     margin: 0 3.2rem 13rem 3.2rem;
 }
 
@@ -517,7 +517,7 @@ footer{
 
     .clipboard__image-device{
         width: 100%;
-        max-width: 76.8rem;
+        max-width: 81.2rem;
         margin: 0 3.2rem 13rem 3.2rem;
     }
 
