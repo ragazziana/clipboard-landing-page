@@ -26,7 +26,7 @@ body{
     font-family: 'Bai Jamjuree', sans-serif;
     background-image: url(../images/bg-header-mobile.png);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-position: top center;
     display: flex;
     flex-direction: column;
@@ -382,10 +382,10 @@ footer{
     margin: 0 4rem;
 }
 
-@media (min-width: 1025px){
+@media (min-width: 1016px){
     body{
         background-image: url(../images/bg-header-desktop.png);
-        background-size: contain;
+        background-size: cover;
     }
 
     header{
